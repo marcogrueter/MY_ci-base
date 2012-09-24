@@ -3,6 +3,9 @@
 CodeIgniter 3.0-dev installation with lots of stuff I use for bigger projects.
 Sorry for stupid name...
 
+This was kinda reverse engineered from a project I recently finished.
+So there might still be some crap in it. Sorry.
+
 ## CI Sparks, Contributions etc. included
 
 * [codeigniter-modular-extension-hmvc](https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc/wiki/Home) by [wirezdesign](https://bitbucket.org/wiredesignz/)
